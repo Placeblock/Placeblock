@@ -1,15 +1,14 @@
 # Hey, I'm Placeblock!
 
-## What i love ❤️
+## What I love ❤️
 - > ### Build fast and well-integrated backends
 - > ### Design beautiful web-interfaces
 - > ### Develop high performance Minecraft-plugins
 
 <br />
 
-Im just 16 Years old and i learn constantly.
-Im not perfect at programming and i will never be,
-but i do what i can to get better :)
+I'm 17 Years old and if you read this the chances that I'm developing are quite high.
+I'm not perfect at programming and I will never be, but I do what I can to get better :)
 
 
 ## Here are some Infos about me :
