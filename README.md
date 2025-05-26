@@ -1,12 +1,12 @@
-# Hey, I'm Felix!
+#### Hey, I'm Felix!
 
-## What I love ❤️
-- #### Programming
-- #### Spending time with friends
-- #### Music Music Music
+I am 19 years old and create for quite a few years now.
+Most of the time I am developing cool things in my freetime, of course doing it together is the most fun!
 
-<br />
+I ❤️ Open-Source and try to make the internet a better place.
 
-I'm 18 Years old and if you read this the chances that I'm developing are quite high.
+Also I reject "Vibe-Coding" and try to really learn my tools, of course AI can help with that 💡.
 
-Have fun in life! Do what makes you happy, spend time with your friends, and have a great time!
+Be kind and spread some love 🌈!
+
+Felix
